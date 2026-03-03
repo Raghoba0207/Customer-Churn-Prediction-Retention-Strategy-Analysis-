@@ -42,6 +42,4 @@ Best performing model: Random Forest
 
 ---
 
-## 👨‍💻 Author
-Onkar Ankush Jadhav  
-GitHub: https://github.com/onkar0629
+
